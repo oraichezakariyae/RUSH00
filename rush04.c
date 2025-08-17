@@ -61,7 +61,10 @@ void	rush(int x, int y)
 	int	col_pos;
 
 	if (x <= 0 || y <= 0)
+	{
 		error_msg("Invalid input!Try again.");
+	     return;
+	}
 	row_pos = 0;
 	col_pos = 0;
 	while (row_pos < y)
