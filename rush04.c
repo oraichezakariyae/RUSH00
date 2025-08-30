@@ -55,7 +55,7 @@ void	print_last_line(int x, int col_pos)
         }
 }
 
-void	rush(int x, int y)
+void	rush04(int x, int y)
 {
 	int	row_pos;
 	int	col_pos;
