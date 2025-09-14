@@ -1,5 +1,6 @@
 void	ft_putchar(char c);
 
+
 void	error_msg(char *str)
 {
 	int	i;
