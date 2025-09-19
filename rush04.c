@@ -1,4 +1,4 @@
-void	ft_putchar(char c);
+ void	ft_putchar(char c);
 
 
 void	error_msg(char *str)
