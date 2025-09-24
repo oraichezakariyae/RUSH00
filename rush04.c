@@ -13,7 +13,7 @@ void	error_msg(char *str)
 	}
 	ft_putchar('\n');
 } 
-
+ 
 void	print_first_line(int x, int col_pos)
 {
 	while (col_pos < x)
