@@ -12,7 +12,7 @@ void	error_msg(char *str)
 		i++;
 	}
 	ft_putchar('\n');
-} 
+}  
    
 void	print_first_line(int x, int col_pos)
 { 
